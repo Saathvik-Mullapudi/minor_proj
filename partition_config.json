@@ -1,0 +1,30 @@
+{
+  "cut_block_index": 5,
+  "stage1_blocks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "stage2_blocks": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "activation_shape": [
+    1,
+    197,
+    768
+  ],
+  "activation_bytes_fp32": 605184,
+  "activation_bytes_fp16": 302592,
+  "stage1_param_count": 43269888,
+  "stage2_param_count": 43297768,
+  "stage1_mem_bytes": 173079552,
+  "stage2_mem_bytes": 173191072
+}
